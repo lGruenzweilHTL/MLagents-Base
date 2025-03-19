@@ -1,0 +1,29 @@
+{
+    "CloseToTargetBehaviour": {
+        "checkpoints": [
+            {
+                "steps": 308921,
+                "file_path": "results/ppo/CloseToTargetBehaviour/CloseToTargetBehaviour-308921.onnx",
+                "reward": 12.158713680505752,
+                "creation_time": 1742308431.1366234,
+                "auxillary_file_paths": [
+                    "results/ppo/CloseToTargetBehaviour/CloseToTargetBehaviour-308921.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 308921,
+            "file_path": "results/ppo/CloseToTargetBehaviour.onnx",
+            "reward": 12.158713680505752,
+            "creation_time": 1742308431.1366234,
+            "auxillary_file_paths": [
+                "results/ppo/CloseToTargetBehaviour/CloseToTargetBehaviour-308921.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cu124"
+    }
+}
