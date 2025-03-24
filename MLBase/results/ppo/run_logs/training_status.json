@@ -1,23 +1,23 @@
 {
-    "CloseToTargetBehaviour": {
+    "CaptureTheFlag": {
         "checkpoints": [
             {
-                "steps": 308921,
-                "file_path": "results/ppo/CloseToTargetBehaviour/CloseToTargetBehaviour-308921.onnx",
-                "reward": 12.158713680505752,
-                "creation_time": 1742308431.1366234,
+                "steps": 56188,
+                "file_path": "results/ppo/CaptureTheFlag/CaptureTheFlag-56188.onnx",
+                "reward": 89.75551386674245,
+                "creation_time": 1742389393.871254,
                 "auxillary_file_paths": [
-                    "results/ppo/CloseToTargetBehaviour/CloseToTargetBehaviour-308921.pt"
+                    "results/ppo/CaptureTheFlag/CaptureTheFlag-56188.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 308921,
-            "file_path": "results/ppo/CloseToTargetBehaviour.onnx",
-            "reward": 12.158713680505752,
-            "creation_time": 1742308431.1366234,
+            "steps": 56188,
+            "file_path": "results/ppo/CaptureTheFlag.onnx",
+            "reward": 89.75551386674245,
+            "creation_time": 1742389393.871254,
             "auxillary_file_paths": [
-                "results/ppo/CloseToTargetBehaviour/CloseToTargetBehaviour-308921.pt"
+                "results/ppo/CaptureTheFlag/CaptureTheFlag-56188.pt"
             ]
         }
     },

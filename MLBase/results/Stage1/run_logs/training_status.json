@@ -1,0 +1,47 @@
+{
+    "CaptureTheFlag": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results/Stage1/CaptureTheFlag/CaptureTheFlag-0.onnx",
+                "reward": null,
+                "creation_time": 1742389585.6781409,
+                "auxillary_file_paths": [
+                    "results/Stage1/CaptureTheFlag/CaptureTheFlag-0.pt"
+                ]
+            },
+            {
+                "steps": 54138,
+                "file_path": "results/Stage1/CaptureTheFlag/CaptureTheFlag-54138.onnx",
+                "reward": 105.6789102596896,
+                "creation_time": 1742390563.1921728,
+                "auxillary_file_paths": [
+                    "results/Stage1/CaptureTheFlag/CaptureTheFlag-54138.pt"
+                ]
+            },
+            {
+                "steps": 91755,
+                "file_path": "results/Stage1/CaptureTheFlag/CaptureTheFlag-91755.onnx",
+                "reward": 138.82894977306327,
+                "creation_time": 1742461647.9813807,
+                "auxillary_file_paths": [
+                    "results/Stage1/CaptureTheFlag/CaptureTheFlag-91755.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 91755,
+            "file_path": "results/Stage1/CaptureTheFlag.onnx",
+            "reward": 138.82894977306327,
+            "creation_time": 1742461647.9813807,
+            "auxillary_file_paths": [
+                "results/Stage1/CaptureTheFlag/CaptureTheFlag-91755.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cu124"
+    }
+}
